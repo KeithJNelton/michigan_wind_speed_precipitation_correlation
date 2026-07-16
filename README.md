@@ -20,23 +20,23 @@ Ordinary kriging was used as the primary interpolation method for all surfaces. 
 
 Prediction standard error surface was used to measure interpolation uncertainty - generally lowest near clusters of stations and highest in areas with sparse station coverage (e.g., northern Lake Michigan shoreline, far northern Lower Peninsula)
 
-### January Precipitation
+
 ![Interpolated January Mean Precipitation](January%20Precipitation.png)
 
-### January Wind Speed
+
 ![Interpolated January Mean Wind Speed](January%20Wind.png)
 
-### January Wind Speed — Prediction Standard Error
-![Prediction Standard Error - January Wind Speed](January%20Standard_Error.png)
 
-### July Precipitation
-![Interpolated July Mean Precipitation](images/July%20Precipitation.png)
+![Prediction Standard Error - January Wind Speed](January%20Standard%20Error.png)
 
-### July Wind Speed
-![Interpolated July Mean Wind Speed](images/July%20Wind.png)
 
-### July Wind Speed — Prediction Standard Error
-![Prediction Standard Error - July Wind Speed](July%20Standard_Error.png)
+![Interpolated July Mean Precipitation](July%20Precipitation.png)
+
+
+![Interpolated July Mean Wind Speed](July%20Wind.png)
+
+
+![Prediction Standard Error - July Wind Speed](July%20Standard%20Error.png)
 
 ## Key Findings
 
